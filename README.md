@@ -1,4 +1,4 @@
-# List of tools for web development and other software worker stuff
+# Links for web development and software
 
 An attempt to have all links in one place, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer). I will try, often unsuccessfully, to replace inferior tools by superior tools, instead of keeping them all.
 
