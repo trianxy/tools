@@ -1,4 +1,4 @@
-# Links for web development and software
+# Links for web development and other stuff
 
 An attempt to have all links in one place, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer). I will try, often unsuccessfully, to replace inferior tools by superior tools, instead of keeping them all.
 
@@ -101,6 +101,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [https://www.tutorialspoint.com/python3/python_reg_expressions.htm](https://www.tutorialspoint.com/python3/python_reg_expressions.htm): Nice and simple, short Python documentation on Regex (regular expressions)
 - [DBeaver](dbeaver.io): Free GUI tool for databases incl. Postgres
 - [similarweb.com](similarweb.com): Get estimates on users per month
+- [https://emailregex.com/](https://emailregex.com/): Great regex to extract emails, urls and other stuff
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
